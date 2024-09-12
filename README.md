@@ -16,7 +16,7 @@ Bienvenida/o a mi perfil de GitHub, donde compartire proyectos relacionados con 
 ---
 
 ### 🛠 Tecnologías y herramientas
-- **Lenguajes:**JavaScript
+- **Lenguajes:** JavaScript
 - **Herramientas:** Git,VSCode
 - **Intereses:** Ciencia de datos, Machine Learning, Análisis de datos
 
