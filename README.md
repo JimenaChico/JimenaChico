@@ -8,7 +8,7 @@ Bienvenida/o a mi perfil de GitHub, donde compartire proyectos relacionados con 
 
 ### 🌟 Acerca de mí
 - 🎓 Ingeniera en Sistemas de Informacion con pasión por la tecnología.
-- 🌱 Actualmente explorando **ciencia de datos**,**Backend** y **IA**
+- 🌱 Actualmente explorando **ciencia de datos** , **Backend** y **IA**
 - ✈️ Apasionada por los viajes (¡próximas paradas: playa, asia🌍!).
 - 📊 Interesada en las inversiones y las tecnologías que las impulsan.
 - 👪 Mi familia es mi motor, orgullosa esposa y madre.
